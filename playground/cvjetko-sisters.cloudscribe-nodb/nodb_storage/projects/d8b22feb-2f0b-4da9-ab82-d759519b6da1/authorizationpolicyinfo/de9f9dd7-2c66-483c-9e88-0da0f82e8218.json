@@ -1,0 +1,1 @@
+{"Id":"de9f9dd7-2c66-483c-9e88-0da0f82e8218","TenantId":"d8b22feb-2f0b-4da9-ab82-d759519b6da1","Name":"FileManagerDeletePolicy","RequireAuthenticatedUser":false,"RequiredUserName":null,"AllowedRoles":["Administrators"],"AuthenticationSchemes":[],"RequiredClaims":[],"Notes":null}
