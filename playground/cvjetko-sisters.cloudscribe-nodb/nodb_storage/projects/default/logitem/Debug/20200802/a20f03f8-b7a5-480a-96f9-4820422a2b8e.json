@@ -1,0 +1,1 @@
+{"Id":"a20f03f8-b7a5-480a-96f9-4820422a2b8e","LogDateUtc":"2020-08-02T12:44:33.79068Z","IpAddress":"::1","Culture":"en-GB","Url":"/account/login","ShortUrl":"/account/login","Thread":"","LogLevel":"Debug","Logger":"cloudscribe.Core.Identity.UserStore","Message":"GetUserIdAsync","StateJson":"[{\"Key\":\"{OriginalFormat}\",\"Value\":\"GetUserIdAsync\"}]","EventId":0}

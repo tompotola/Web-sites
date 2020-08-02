@@ -1,0 +1,1 @@
+{"Id":"f86214f1-053e-407d-9523-e5480f4c3818","LogDateUtc":"2020-08-02T12:44:33.702501Z","IpAddress":"::1","Culture":"en-GB","Url":"/account/login","ShortUrl":"/account/login","Thread":"","LogLevel":"Debug","Logger":"cloudscribe.Core.Identity.UserStore","Message":"SetPasswordHashAsync","StateJson":"[{\"Key\":\"{OriginalFormat}\",\"Value\":\"SetPasswordHashAsync\"}]","EventId":0}
